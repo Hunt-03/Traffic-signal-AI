@@ -29,6 +29,8 @@ In urban environments, ensuring the prompt arrival of emergency services like am
 
 # Experiments:
 Various models were explored for summarization and data generation using own dataset on Intel Coud Console.
+https://github.com/Hunt-03/Traffic-signal-AI/assets/131003334/403c5b28-359f-4b5d-93cd-e4648556f4dc
+
 
 
 # Usecase of Intel Developer cloud
@@ -110,10 +112,6 @@ In conclusion, "Enlightening Justice" not only showcases the transformative powe
 
 Required installation
 
-pip install faiss-cpu streamlit langchain huggingface_hub sentence_transformers pypdf peft streamlit_option_menu auto-gptq optimum diffusers
-
-
-https://github.com/Hunt-03/Traffic-signal-AI/assets/131003334/403c5b28-359f-4b5d-93cd-e4648556f4dc
 
 
 clone repository

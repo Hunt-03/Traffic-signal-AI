@@ -29,7 +29,12 @@ In urban environments, ensuring the prompt arrival of emergency services like am
 
 # Experiments:
 Various models were explored for summarization and data generation using own dataset on Intel Coud Console.
-https://github.com/Hunt-03/Traffic-signal-AI/assets/131003334/403c5b28-359f-4b5d-93cd-e4648556f4dc
+
+
+
+
+https://github.com/Hunt-03/Traffic-signal-AI/assets/131003334/147e4dba-0e82-49c6-9192-9efff7e6180a
+
 
 
 

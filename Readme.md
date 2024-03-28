@@ -114,8 +114,7 @@ pip install faiss-cpu streamlit langchain huggingface_hub sentence_transformers 
 clone repository
 
  
-https://github.com/Sriram-code/Intel-Hackathon
-
+https://github.com/Hunt-03/Traffic-signal-AI
 
 
 # Application
